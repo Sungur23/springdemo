@@ -1,0 +1,6 @@
+com\aselsan\springdemo\student\StudentService.class
+com\aselsan\springdemo\student\StudentRepository.class
+com\aselsan\springdemo\student\Student.class
+com\aselsan\springdemo\student\StudentController.class
+com\aselsan\springdemo\student\StudentConfig.class
+com\aselsan\springdemo\SpringdemoApplication.class
